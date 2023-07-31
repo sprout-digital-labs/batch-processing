@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "password",
+    "database": "batchprocessing",
+    "host": "localshot",
+    "dialect": "mysql",
+    "port": 3306,
+    "ssl": true,
+    "logging": false,
+    "pool": {
+      "max": 30,
+      "min": 0,
+      "idle": 50000
+    }
+  }
+}

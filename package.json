@@ -1,0 +1,39 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://devinacecilia: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@github.com/sprout-digital-labs/batch-processing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprout-digital-labs/batch-processing/issues"
+  },
+  "homepage": "https://github.com/sprout-digital-labs/batch-processing#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1277.0",
+    "axios": "^1.2.1",
+    "bcryptjs": "^2.4.3",
+    "convert-excel-to-json": "^1.7.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "env-cmd": "^10.1.0",
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.40",
+    "mysql2": "^2.3.3",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.8.0",
+    "sequelize": "^6.28.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21",
+    "sequelize-cli": "^6.5.2"
+  }
+}
